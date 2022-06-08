@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 08 16:18:59 AST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-4377-e2cb-000000f68430 
+on database directory memory:C:\Devlopment\applications\Spring Review\Spring-Security-JWT-authentication\f3ebf747-35bf-4056-84d3-fba5762ee778 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Abdulrahman.karaien/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.3.1+2-LTS-6
+user.dir=C:\Devlopment\applications\Spring Review\Spring-Security-JWT-authentication
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
